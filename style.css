@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.bg-color-baslik {
+  background-color: #333;
+}
+.card {
+  background-color: #f4f4f4;
+}
+.footer {
+  background-color: #333;
+  padding: 20px;
+  color: #f4f4f4;
+  text-align: center;
+}
