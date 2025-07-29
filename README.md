@@ -40,9 +40,6 @@ Bu projede, Bootstrap'in grid sistemi, kart yapısı (`card`), jumbotron ve diğ
 ### Blog Detay Sayfası
 ![post.html görünümü](post.jpg)
 
-### Kart Yapısı
-![Blog kart yapısı](./7cc0d81f-96a0-49bc-96cd-ca794dc7d2d0.png)
-
 ## 📚 Öğrendiklerim
 
 - Bootstrap grid sistemi ve kart yapısı
